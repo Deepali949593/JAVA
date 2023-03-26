@@ -1,0 +1,17 @@
+import java.util.*;
+import java.io.*;
+class Notepad
+{ 
+   public static void main(String[] args){
+       runtime rs=Runtime.getRuntime():
+       {
+              rs.exec("calc");
+              rs.exec("notepad");
+       }
+        catch(IOException e)
+      {
+              System.out.println(e);
+      }
+}
+}
+
