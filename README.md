@@ -1,1 +1,1 @@
-A Java program for notepad and calculator
+Short Java program for notepad and calculator
